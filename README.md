@@ -1,5 +1,3 @@
-# AI-Business-Research-Assistant
-An AI powered business research assistant using RAG to help evaluate business ideas and explore market insights.
 # AI Business Research Assistant
 
 An AI-powered business research assistant that uses Retrieval-Augmented Generation (RAG) to help entrepreneurs research markets, explore business opportunities, and evaluate startup ideas.
