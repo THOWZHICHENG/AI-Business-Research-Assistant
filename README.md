@@ -134,7 +134,6 @@ Planned improvements:
 
 ## Portfolio and learning guide
 
-- [Résumé wording and interview talking points](docs/PORTFOLIO.md)
 - [Step-by-step English and Chinese explanation / 中英双语学习指南](docs/WALKTHROUGH_EN_ZH.md)
 - [Contribution guidance](CONTRIBUTING.md)
 
