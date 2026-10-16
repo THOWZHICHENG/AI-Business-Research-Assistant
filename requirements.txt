@@ -1,0 +1,7 @@
+# Direct dependencies observed in the existing local environment.
+# Not a transitive lockfile or a clean-install compatibility claim.
+faiss-cpu==1.15.1
+numpy==2.5.4
+sentence-transformers==6.1.0
+python-dotenv==1.2.4
+openai==3.31.0
